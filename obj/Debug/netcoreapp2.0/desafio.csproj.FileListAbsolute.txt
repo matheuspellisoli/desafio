@@ -1,0 +1,10 @@
+/home/matheus/Documentos/Projetos/dotnet/desafio/obj/Debug/netcoreapp2.0/desafio.csproj.CoreCompileInputs.cache
+/home/matheus/Documentos/Projetos/dotnet/desafio/obj/Debug/netcoreapp2.0/desafio.AssemblyInfoInputs.cache
+/home/matheus/Documentos/Projetos/dotnet/desafio/obj/Debug/netcoreapp2.0/desafio.AssemblyInfo.cs
+/home/matheus/Documentos/Projetos/dotnet/desafio/bin/Debug/netcoreapp2.0/desafio.deps.json
+/home/matheus/Documentos/Projetos/dotnet/desafio/bin/Debug/netcoreapp2.0/desafio.runtimeconfig.json
+/home/matheus/Documentos/Projetos/dotnet/desafio/bin/Debug/netcoreapp2.0/desafio.runtimeconfig.dev.json
+/home/matheus/Documentos/Projetos/dotnet/desafio/bin/Debug/netcoreapp2.0/desafio.dll
+/home/matheus/Documentos/Projetos/dotnet/desafio/bin/Debug/netcoreapp2.0/desafio.pdb
+/home/matheus/Documentos/Projetos/dotnet/desafio/obj/Debug/netcoreapp2.0/desafio.dll
+/home/matheus/Documentos/Projetos/dotnet/desafio/obj/Debug/netcoreapp2.0/desafio.pdb
